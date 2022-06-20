@@ -21,7 +21,6 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: Valasareddy Pallavi
 RegisterNumber:212221240059  
 */
-```
 import pandas as pd
 import matplotlib.pyplot as plt
 
