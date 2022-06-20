@@ -56,7 +56,7 @@ y_pred
 from sklearn import metrics
 accuracy = metrics.accuracy_score(y_test,y_pred)
 accuracy
-
+```
 ## Output:
 <img width="535" alt="c8" src="https://user-images.githubusercontent.com/94294872/174632568-fdfbf874-de8b-4c2c-a9ea-b78fdc31226c.png">
 
